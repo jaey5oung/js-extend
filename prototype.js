@@ -73,4 +73,5 @@ function home() {
   console.log(list === list2);
   
   //const 는 재할당은안되지만 오브젝트나 배열을 추가하거나 삭제할수있다
-  //지금까지 배웠던 let과 const 의미와 그 외에것 복습하기 
+  //지금까지 배웠던 let과 const 의미와 그 외에것 복습하기
+  //내일부터 다시 시작
